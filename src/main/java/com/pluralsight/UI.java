@@ -31,7 +31,7 @@ boolean calculate = true;
           chose and option:
                 """);
 
-
+        System.out.println("New changes");
     }
     }
 }
